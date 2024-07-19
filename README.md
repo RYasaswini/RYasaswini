@@ -55,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=react" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="35" />
